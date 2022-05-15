@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Developed a Calculator project using React
+
+This can be seen in link : https://victor-carvalho1996.github.io/CalculadoraReact/
 
 ## Available Scripts
 
